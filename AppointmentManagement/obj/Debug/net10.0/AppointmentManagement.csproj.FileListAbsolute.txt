@@ -1,0 +1,14 @@
+E:\vs12\AppointmentManagement\bin\Debug\net10.0\AppointmentManagement.exe
+E:\vs12\AppointmentManagement\bin\Debug\net10.0\AppointmentManagement.deps.json
+E:\vs12\AppointmentManagement\bin\Debug\net10.0\AppointmentManagement.runtimeconfig.json
+E:\vs12\AppointmentManagement\bin\Debug\net10.0\AppointmentManagement.dll
+E:\vs12\AppointmentManagement\bin\Debug\net10.0\AppointmentManagement.pdb
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\AppointmentManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\AppointmentManagement.AssemblyInfoInputs.cache
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\AppointmentManagement.AssemblyInfo.cs
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\AppointmentManagement.csproj.CoreCompileInputs.cache
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\AppointmentManagement.dll
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\refint\AppointmentManagement.dll
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\AppointmentManagement.pdb
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\AppointmentManagement.genruntimeconfig.cache
+E:\vs12\AppointmentManagement\obj\Debug\net10.0\ref\AppointmentManagement.dll
