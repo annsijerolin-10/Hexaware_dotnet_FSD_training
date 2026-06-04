@@ -1,0 +1,14 @@
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\Smart_Courier_App.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\Smart_Courier_App.AssemblyInfoInputs.cache
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\Smart_Courier_App.AssemblyInfo.cs
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\Smart_Courier_App.csproj.CoreCompileInputs.cache
+E:\vs12\Assignment_SmartCourierManagement\bin\Debug\net10.0\Smart_Courier_App.exe
+E:\vs12\Assignment_SmartCourierManagement\bin\Debug\net10.0\Smart_Courier_App.deps.json
+E:\vs12\Assignment_SmartCourierManagement\bin\Debug\net10.0\Smart_Courier_App.runtimeconfig.json
+E:\vs12\Assignment_SmartCourierManagement\bin\Debug\net10.0\Smart_Courier_App.dll
+E:\vs12\Assignment_SmartCourierManagement\bin\Debug\net10.0\Smart_Courier_App.pdb
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\Smart_Courier_App.dll
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\refint\Smart_Courier_App.dll
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\Smart_Courier_App.pdb
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\Smart_Courier_App.genruntimeconfig.cache
+E:\vs12\Assignment_SmartCourierManagement\obj\Debug\net10.0\ref\Smart_Courier_App.dll

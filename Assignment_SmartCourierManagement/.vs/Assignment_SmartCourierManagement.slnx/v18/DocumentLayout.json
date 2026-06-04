@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs12\\Assignment_SmartCourierManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\services\\courierbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:services\\courierbookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\models\\courierbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:models\\courierbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\invoices\\consoleinvoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:invoices\\consoleinvoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\invoices\\iinvoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:invoices\\iinvoicegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\deliverycalculators\\standarddeliverycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:deliverycalculators\\standarddeliverycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\deliverycalculators\\expressdeliverycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:deliverycalculators\\expressdeliverycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\deliverycalculators\\ideliverychargecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:deliverycalculators\\ideliverychargecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\notifications\\whatsappnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:notifications\\whatsappnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\notifications\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:notifications\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\notifications\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:notifications\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\notifications\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:notifications\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|e:\\vs12\\assignment_smartcouriermanagement\\deliverycalculators\\internationaldeliverycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC869FD-6179-481F-ADD5-C4A3831900C4}|Assignment_SmartCourierManagement.csproj|solutionrelative:deliverycalculators\\internationaldeliverycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourierBookingService.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Services\\CourierBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\CourierBookingService.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Services\\CourierBookingService.cs",
+              "RelativeToolTip": "Services\\CourierBookingService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:29:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleInvoiceGenerator.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Invoices\\ConsoleInvoiceGenerator.cs",
+              "RelativeDocumentMoniker": "Invoices\\ConsoleInvoiceGenerator.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Invoices\\ConsoleInvoiceGenerator.cs",
+              "RelativeToolTip": "Invoices\\ConsoleInvoiceGenerator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:28:19.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInvoiceGenerator.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Invoices\\IInvoiceGenerator.cs",
+              "RelativeDocumentMoniker": "Invoices\\IInvoiceGenerator.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Invoices\\IInvoiceGenerator.cs",
+              "RelativeToolTip": "Invoices\\IInvoiceGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:28:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WhatsAppNotification.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\WhatsAppNotification.cs",
+              "RelativeDocumentMoniker": "Notifications\\WhatsAppNotification.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\WhatsAppNotification.cs",
+              "RelativeToolTip": "Notifications\\WhatsAppNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:27:35.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "Notifications\\SmsNotificationService.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\SmsNotificationService.cs",
+              "RelativeToolTip": "Notifications\\SmsNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:27:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "Notifications\\EmailNotificationService.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\EmailNotificationService.cs",
+              "RelativeToolTip": "Notifications\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:26:56.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Notifications\\INotificationService.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Notifications\\INotificationService.cs",
+              "RelativeToolTip": "Notifications\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:26:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InternationalDeliveryCalculator.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\InternationalDeliveryCalculator.cs",
+              "RelativeDocumentMoniker": "DeliveryCalculators\\InternationalDeliveryCalculator.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\InternationalDeliveryCalculator.cs",
+              "RelativeToolTip": "DeliveryCalculators\\InternationalDeliveryCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:25:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpressDeliveryCalculator.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\ExpressDeliveryCalculator.cs",
+              "RelativeDocumentMoniker": "DeliveryCalculators\\ExpressDeliveryCalculator.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\ExpressDeliveryCalculator.cs",
+              "RelativeToolTip": "DeliveryCalculators\\ExpressDeliveryCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:25:17.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StandardDeliveryCalculator.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\StandardDeliveryCalculator.cs",
+              "RelativeDocumentMoniker": "DeliveryCalculators\\StandardDeliveryCalculator.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\StandardDeliveryCalculator.cs",
+              "RelativeToolTip": "DeliveryCalculators\\StandardDeliveryCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:24:46.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDeliveryChargeCalculator.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\IDeliveryChargeCalculator.cs",
+              "RelativeDocumentMoniker": "DeliveryCalculators\\IDeliveryChargeCalculator.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\DeliveryCalculators\\IDeliveryChargeCalculator.cs",
+              "RelativeToolTip": "DeliveryCalculators\\IDeliveryChargeCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:24:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourierBooking.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Models\\CourierBooking.cs",
+              "RelativeDocumentMoniker": "Models\\CourierBooking.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Models\\CourierBooking.cs",
+              "RelativeToolTip": "Models\\CourierBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:23:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parcel.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Models\\Parcel.cs",
+              "RelativeDocumentMoniker": "Models\\Parcel.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Models\\Parcel.cs",
+              "RelativeToolTip": "Models\\Parcel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:23:02.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:22:40.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs12\\Assignment_SmartCourierManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\vs12\\Assignment_SmartCourierManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:21:51.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
