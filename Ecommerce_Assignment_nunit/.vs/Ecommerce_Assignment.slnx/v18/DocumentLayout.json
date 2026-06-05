@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs12\\Ecommerce_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5014058E-FC7D-165B-9CCC-FB899DACE8C5}|Ecommerce_Assignment.csproj|e:\\vs12\\ecommerce_assignment\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014058E-FC7D-165B-9CCC-FB899DACE8C5}|Ecommerce_Assignment.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\vs12\\ecommerce_assignment.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\vs12\\ecommerce_assignment.tests\\ordertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014058E-FC7D-165B-9CCC-FB899DACE8C5}|Ecommerce_Assignment.csproj|e:\\vs12\\ecommerce_assignment\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014058E-FC7D-165B-9CCC-FB899DACE8C5}|Ecommerce_Assignment.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014058E-FC7D-165B-9CCC-FB899DACE8C5}|Ecommerce_Assignment.csproj|e:\\vs12\\ecommerce_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014058E-FC7D-165B-9CCC-FB899DACE8C5}|Ecommerce_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\vs12\\Ecommerce_Assignment\\Ecommerce_Assignment.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Assignment.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\vs12\\Ecommerce_Assignment\\Ecommerce_Assignment.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Ecommerce_Assignment.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T14:53:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderTest.cs",
+              "DocumentMoniker": "E:\\vs12\\Ecommerce_Assignment\\Ecommerce_Assignment.Tests\\OrderTest.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Assignment.Tests\\OrderTest.cs",
+              "ToolTip": "E:\\vs12\\Ecommerce_Assignment\\Ecommerce_Assignment.Tests\\OrderTest.cs",
+              "RelativeToolTip": "Ecommerce_Assignment.Tests\\OrderTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T12:04:06.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\vs12\\Ecommerce_Assignment\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "E:\\vs12\\Ecommerce_Assignment\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T11:43:58.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\vs12\\Ecommerce_Assignment\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "E:\\vs12\\Ecommerce_Assignment\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T11:40:12.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs12\\Ecommerce_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\vs12\\Ecommerce_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T11:37:56.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

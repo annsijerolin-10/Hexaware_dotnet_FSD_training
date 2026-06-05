@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DeliveryCalculators",
+    "\\Invoices",
+    "\\Models",
+    "\\Notifications",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Services\\CourierBookingService.cs",
+  "PreviewInSolutionExplorer": false
+}

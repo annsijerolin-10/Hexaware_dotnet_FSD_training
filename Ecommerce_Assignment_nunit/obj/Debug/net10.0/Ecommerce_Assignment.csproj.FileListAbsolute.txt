@@ -1,0 +1,14 @@
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\Ecommerce_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\Ecommerce_Assignment.AssemblyInfoInputs.cache
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\Ecommerce_Assignment.AssemblyInfo.cs
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\Ecommerce_Assignment.csproj.CoreCompileInputs.cache
+E:\vs12\Ecommerce_Assignment\bin\Debug\net10.0\Ecommerce_Assignment.exe
+E:\vs12\Ecommerce_Assignment\bin\Debug\net10.0\Ecommerce_Assignment.deps.json
+E:\vs12\Ecommerce_Assignment\bin\Debug\net10.0\Ecommerce_Assignment.runtimeconfig.json
+E:\vs12\Ecommerce_Assignment\bin\Debug\net10.0\Ecommerce_Assignment.dll
+E:\vs12\Ecommerce_Assignment\bin\Debug\net10.0\Ecommerce_Assignment.pdb
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\Ecommerce_Assignment.dll
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\refint\Ecommerce_Assignment.dll
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\Ecommerce_Assignment.pdb
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\Ecommerce_Assignment.genruntimeconfig.cache
+E:\vs12\Ecommerce_Assignment\obj\Debug\net10.0\ref\Ecommerce_Assignment.dll
