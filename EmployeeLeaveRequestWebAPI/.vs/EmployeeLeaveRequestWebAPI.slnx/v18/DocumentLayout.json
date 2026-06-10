@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\services\\ileaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:services\\ileaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\fluent_validator\\leaverequestcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:fluent_validator\\leaverequestcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\dtos\\leaverequestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:dtos\\leaverequestcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\dtos\\leaverequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:dtos\\leaverequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\employeeleaverequestwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:employeeleaverequestwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\validations\\validleavetypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:validations\\validleavetypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|e:\\vs12\\employeeleaverequestwebapi\\validations\\futuredateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E16DC-738A-53FB-B7CF-96075878C9F1}|EmployeeLeaveRequestWebAPI.csproj|solutionrelative:validations\\futuredateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:11:05.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILeaveRequest.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Services\\ILeaveRequest.cs",
+              "RelativeDocumentMoniker": "Services\\ILeaveRequest.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Services\\ILeaveRequest.cs",
+              "RelativeToolTip": "Services\\ILeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:42:15.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveRequestService.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:43:39.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:10:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestCreateDtoValidator.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Fluent_Validator\\LeaveRequestCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Fluent_Validator\\LeaveRequestCreateDtoValidator.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Fluent_Validator\\LeaveRequestCreateDtoValidator.cs",
+              "RelativeToolTip": "Fluent_Validator\\LeaveRequestCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:03:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequestCreateDto.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\DTOs\\LeaveRequestCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveRequestCreateDto.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\DTOs\\LeaveRequestCreateDto.cs",
+              "RelativeToolTip": "DTOs\\LeaveRequestCreateDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:14:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveRequestController.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:52:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRequestResponseDto.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\DTOs\\LeaveRequestResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveRequestResponseDto.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\DTOs\\LeaveRequestResponseDto.cs",
+              "RelativeToolTip": "DTOs\\LeaveRequestResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:39:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeLeaveRequestWebAPI.csproj",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\EmployeeLeaveRequestWebAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeLeaveRequestWebAPI.csproj",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\EmployeeLeaveRequestWebAPI.csproj",
+              "RelativeToolTip": "EmployeeLeaveRequestWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T09:13:35.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:21:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidLeaveTypeAttribute.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Validations\\ValidLeaveTypeAttribute.cs",
+              "RelativeDocumentMoniker": "Validations\\ValidLeaveTypeAttribute.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Validations\\ValidLeaveTypeAttribute.cs",
+              "RelativeToolTip": "Validations\\ValidLeaveTypeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:36:34.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FutureDateAttribute.cs",
+              "DocumentMoniker": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Validations\\FutureDateAttribute.cs",
+              "RelativeDocumentMoniker": "Validations\\FutureDateAttribute.cs",
+              "ToolTip": "E:\\vs12\\EmployeeLeaveRequestWebAPI\\Validations\\FutureDateAttribute.cs",
+              "RelativeToolTip": "Validations\\FutureDateAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:28:44.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
