@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hSCkj8Ijidk=",
+  "dgSpecHash": "oRK3bJrJTlM=",
   "success": true,
-  "projectFilePath": "E:\\vs12\\FleetMaintenanceApi\\FleetMaintenanceApi.csproj",
+  "projectFilePath": "E:\\hexaware_github\\Hexaware_dotnet_FSD_training\\FleetMaintenanceApi\\FleetMaintenanceApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Annsi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Annsi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
